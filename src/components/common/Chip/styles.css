@@ -1,0 +1,11 @@
+.chip {
+    width: fit-content;
+    text-transform: capitalize;
+    padding: 0.3rem 0.5rem;
+    border-radius: 5px;
+    
+    color: #000;
+    font-size: 0.7 rem;
+    cursor: pointer;
+    background-color: linear-gradient(to right, #a14646, #e0e0e0);
+}
