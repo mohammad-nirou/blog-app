@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/blog-app/static/css/main.00a57c78.css",
-    "main.js": "/blog-app/static/js/main.49111bbe.js",
-    "index.html": "/blog-app/index.html",
-    "main.00a57c78.css.map": "/blog-app/static/css/main.00a57c78.css.map",
-    "main.49111bbe.js.map": "/blog-app/static/js/main.49111bbe.js.map"
+    "main.css": "/mohammad-nirou.github.io/static/css/main.00a57c78.css",
+    "main.js": "/mohammad-nirou.github.io/static/js/main.49111bbe.js",
+    "index.html": "/mohammad-nirou.github.io/index.html",
+    "main.00a57c78.css.map": "/mohammad-nirou.github.io/static/css/main.00a57c78.css.map",
+    "main.49111bbe.js.map": "/mohammad-nirou.github.io/static/js/main.49111bbe.js.map"
   },
   "entrypoints": [
     "static/css/main.00a57c78.css",
