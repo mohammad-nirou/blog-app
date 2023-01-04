@@ -9,7 +9,7 @@ export const blogList = [
       authorName: 'Mohamad Niroujazi',
       authorAvatar: 'assets/images/author.jpg',
       createdAt: 'Nov 20 , 2022',
-      cover: './assets/images/css.jpg',
+      cover: '/assets/images/css.jpg',
     },
     {
       id: 2,
