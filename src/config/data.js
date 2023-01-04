@@ -9,7 +9,7 @@ export const blogList = [
       authorName: 'Mohamad Niroujazi',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'Nov 20 , 2022',
-      cover: '/assets/images/css.jpg',
+      cover: 'assets/images/css.jpg',
     },
     {
       id: 2,
@@ -21,7 +21,7 @@ export const blogList = [
       authorName: 'Mohamad Niroujazi',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'Nov 20 , 2022',
-      cover: '/assets/images/deam.jpg',
+      cover: 'assets/images/deam.jpg',
     },
     {
       id: 3,
@@ -33,7 +33,7 @@ export const blogList = [
       authorName: 'Mohamad Niroujazi',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'Nov 20 , 2022',
-      cover: '/assets/images/python.jpg',
+      cover: 'assets/images/python.jpg',
     },
     {
       id: 4,
@@ -45,7 +45,7 @@ export const blogList = [
       authorName: 'Mohamad Niroujazi',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'Nov 20 , 2022',
-      cover: '/assets/images/AI.jpg',
+      cover: 'assets/images/AI.jpg',
     },
     {
       id: 5,
@@ -57,7 +57,7 @@ export const blogList = [
       authorName: 'Mohamad Niroujazi',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'Nov 20 , 2022',
-      cover: '/assets/images/computervision.jpg',
+      cover: 'assets/images/computervision.jpg',
     },
     {
       id: 6,
@@ -70,7 +70,7 @@ export const blogList = [
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'Nov 20 , 2022',
       cover:
-        '/assets/images/Purple-Combination-colors-graphic-design-predictions-1024x576-1024x576.jpg',
+        'assets/images/Purple-Combination-colors-graphic-design-predictions-1024x576-1024x576.jpg',
     },
     {
       id: 7,
@@ -82,6 +82,6 @@ export const blogList = [
       authorName: 'Mohamad Niroujazi',
       authorAvatar: '/assets/images/author.jpg',
       createdAt: 'Nov 20 , 2022',
-      cover: '/assets/images/javascript.jpg',
+      cover: 'assets/images/javascript.jpg',
     },
   ];
