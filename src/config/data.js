@@ -1,11 +1,15 @@
 export const blogList = [
     {
       id: 1,
-      title: '7 CSS tools you should be using ',
+      title: '7 CSS Tools You Should Be Using ',
       category: 'development',
       subCategory: ['frontend', 'ui/ux', 'design'],
       description:
-        "CSS is the stylesheet language that every web developer must know. It allows us to make web pages more appealing to the user. A web page without CSS is like a human without clothes. CSS has a lot of cool features that allow us to create amazing experiences on the web. By using this stylesheet language, you can make web pages beautiful and responsive on all devices. You can also create good-looking layouts with the power of flexbox and grid. There is a lot to do with CSS and it's very useful for web development. However, writing and managing good CSS code is not that easy. Especially if you are working on large projects and you are not using a CSS framework. That's why it would be useful to use some available CSS tools on the web to make your life easier. In this article, I'm going to share with you 7 CSS tools that you should be using. These tools will help you to write better CSS code and make your life easier. Let's get started. 1. Get Waves. 2. PurgeCSS. 3. CSS Scan. 4. CSS Grid Generator. 5. CSS Gradient. 6. CSS Stats. 7. CSS Minifier.",
+        "CSS is the stylesheet language that every web developer must know. It allows us to make web pages more appealing to the user. A web page without CSS is like a human without clothes. CSS has a lot of cool features that allow us to create amazing experiences on the web. 
+
+        By using this stylesheet language, you can make web pages beautiful and responsive on all devices. You can also create good-looking layouts with the power of flexbox and grid. There is a lot to do with CSS and it's very useful for web development. However, writing and managing good CSS code is not that easy. Especially if you are working on large projects and you are not using a CSS framework. That's why it would be useful to use some available CSS tools on the web to make your life easier. In this article, I'm going to share with you 7 CSS tools that you should be using. These tools will help you to write better CSS code and make your life easier. 
+        
+        Let's get started. 1. Get Waves. 2. PurgeCSS. 3. CSS Scan. 4. CSS Grid Generator. 5. CSS Gradient. 6. CSS Stats. 7. CSS Minifier.",
       authorName: 'Mohamad Niroujazi',
       authorAvatar: 'assets/images/author.jpg',
       createdAt: 'Nov 20 , 2022',
@@ -14,11 +18,11 @@ export const blogList = [
     },
     {
       id: 2,
-      title: 'How to become a professional programmer',
+      title: 'How To Become A Professional Programmer',
       category: 'development',
       subCategory: ['programming', 'coding', 'work'],
       description:
-        "Want to get started in the world of coding and build websites as a career? First, learn programming concepts. Then learn about object-orientation programming. Learn to code in JavaScript. Build a basic website using only HTML. After that, Design websites using CSS.",
+        "Want to get started in the world of coding and build websites as a career? First, learn programming concepts. Then learn about object-oriented programming. Learn to code in JavaScript. Build a basic website using only HTML. After that, design websites using CSS.",
       authorName: 'Mohamad Niroujazi',
       authorAvatar: 'assets/images/author.jpg',
       createdAt: 'Nov 20 , 2022',
@@ -27,7 +31,7 @@ export const blogList = [
     },
     {
       id: 3,
-      title: 'Learn Python with practical examples',
+      title: 'Learn Python With Practical Examples',
       category: 'development',
       subCategory: ['programming', 'coding', 'work'],
       description:
@@ -40,7 +44,7 @@ export const blogList = [
     },
     {
       id: 4,
-      title: 'Arificial Intelligence: The Future of the World',
+      title: 'Arificial Intelligence: The Future Of The World',
       category: 'development',
       subCategory: ['programming', 'coding', 'work'],
       description:
@@ -70,7 +74,7 @@ export const blogList = [
       category: 'development',
       subCategory: ['programming', 'coding', 'work'],
       description:
-        "Want to get started in the world of coding and build websites as a career? First, learn programming concepts. Then learn about object-orientation programming. Learn to code in JavaScript. Build a basic website using only HTML. After that, Design websites using CSS.  ",
+        "Want to get started in the world of coding and build websites as a career? First, learn programming concepts. Then learn about object-oriented programming. Learn to code in JavaScript. Build a basic website using only HTML. After that, Design websites using CSS.  ",
       authorName: 'Mohamad Niroujazi',
       authorAvatar: 'assets/images/author.jpg',
       createdAt: 'Nov 20 , 2022',
